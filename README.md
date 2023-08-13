@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chaurasiarajan3013@gmail.com**
 
-- 📄 Know about my experiences [hhttps://shorturl.at/hnxJ4](hhttps://shorturl.at/hnxJ4)
+- 📄 Know about my experiences [hhttps://shorturl.at/hnxJ4](https://shorturl.at/hnxJ4)
 
 - ⚡ Fun fact **I Think I am amusing**
 
