@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajan Chaurasia</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
+<center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5iCK0gjfk9Akkx-idrYlPWDgL67eB4yu8Sjq1cZzo7A5Bpvs2pUTYoRx_SoObYU7nZU&usqp=CAU" alt="Profile"> </center>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajan313&label=Profile%20views&color=0e75b6&style=flat" alt="rajan313" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajan313" alt="rajan313" /></a> </p>
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **chaurasiarajan3013@gmail.com**
 
-- 📄 Know about my experiences [hhttps://shorturl.at/hnxJ4](https://shorturl.at/hnxJ4)
+- 📄 Know about my experiences [hhttps://shorturl.at/hnxJ4](hhttps://shorturl.at/hnxJ4)
 
 - ⚡ Fun fact **I Think I am amusing**
 
