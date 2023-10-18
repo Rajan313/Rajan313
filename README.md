@@ -2,7 +2,7 @@
    
    <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=400&size=35&pause=1000&color=F72020&background=FFFFFF00&center=true&width=435&lines=Hello+there+%F0%9F%91%8B!;This+is+Rajan+Chaurasia+!" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate fullstack MERN developer from India</h3>
 
 
 
